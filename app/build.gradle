@@ -43,15 +43,5 @@ dependencies {
     compile project(':refresh-footer')
     compile project(':refresh-header')
     compile project(':refresh-layout')
-    compile 'com.flyco.roundview:FlycoRoundView_Lib:1.1.4@aar'
-//    compile 'com.android.support:support-v4:25.3.1'
-//    compile 'com.android.support:support-vector-drawable:25.3.1'
-//    compile 'com.android.support:recyclerview-v7:25.3.1'
-//    compile 'com.android.support.constraint:constraint-layout:1.0.2'
-    compile 'com.github.mmin18:realtimeblurview:1.0.6'
-    compile 'cn.carbs.android:AvatarImageView:1.0.4'
-    compile 'de.hdodenhof:circleimageview:2.1.0'
-    compile 'jp.wasabeef:recyclerview-animators:2.2.6'
-    compile 'pl.droidsonroids.gif:android-gif-drawable:1.2.3'
     testCompile 'junit:junit:4.12'
 }
