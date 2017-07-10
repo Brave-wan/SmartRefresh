@@ -29,9 +29,6 @@
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.TranslucentStatus" />
         <activity
-            android:name=".activity.SelectRegionActivity"
-            android:screenOrientation="portrait" />
-        <activity
             android:name=".activity.style.WaveSwipStyleActivity"
             android:label="@string/title_activity_style_wave_swip"
             android:screenOrientation="portrait" />
